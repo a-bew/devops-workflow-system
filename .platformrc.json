@@ -1,0 +1,6 @@
+{
+  "env": {
+    "VERCEL_TOKEN": "vercel-token",
+    "RENDER_TOKEN": "render-token"
+  }
+}

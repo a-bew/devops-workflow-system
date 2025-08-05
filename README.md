@@ -135,4 +135,4 @@ rm -rf platform-projects/
 Feel free to add more templates and enhance detection logic in `inject.ts`.
 
 Happy shipping 🚀
-# deployfast# devops-workflow-system
+# deployfast - devops-workflow-system
